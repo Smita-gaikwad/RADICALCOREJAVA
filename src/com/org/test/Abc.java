@@ -13,6 +13,7 @@ public class Abc {
 	static String studName="smita";
 	static int sub1,sub2,sub3,total;
 	static float percentage;
+//	Added Comment for test github
 	/**
 	 * @param args
 	 */
